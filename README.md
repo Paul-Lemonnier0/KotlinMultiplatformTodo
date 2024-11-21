@@ -1,3 +1,5 @@
+> **_NOTE:_**  Le backend pour ce projet est le même que l'application en flutter.
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
